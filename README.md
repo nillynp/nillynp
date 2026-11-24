@@ -40,11 +40,12 @@
 
 ---
 
-### Complete 12-Tool Nilly Suite Ecosystem (0€ · MIT · Windows 10/11)
+### Complete 13-Tool Nilly Suite Ecosystem (0€ · MIT · Windows 10/11)
 
 | Tool | Category | Replaces (Typical Size) | Nilly Size | GitHub Repo | Official Page (`0€`) |
 | :--- | :--- | :--- | :---: | :---: | :---: |
-| **[NillyZip Pro](https://github.com/nillynp/nillyzip-pro)** | Native Archive Manager (ZIP, RAR, 7Z, TAR, XZ, ZST + Preview & SHA-256) | WinRAR / 7-Zip / PeaZip (11–120 MB) | **~45 KB ZIP** | [nillyzip-pro](https://github.com/nillynp/nillyzip-pro) | [nillygraphics.com](https://nillygraphics.com/) |
+| **[NillySearch Pro](https://github.com/nillynp/nillysearch-pro)** | Instant Win32 File Finder (Greek Accent-Free, `>size`, 0 MB Idle RAM) | Windows Search (`SearchHost` 250+ MB) / Everything Service | **~46 KB ZIP** | [nillysearch-pro](https://github.com/nillynp/nillysearch-pro) | [nillygraphics.com](https://nillygraphics.com/) |
+| **[NillyZip Pro](https://github.com/nillynp/nillyzip-pro)** | Native Archive Manager (ZIP, RAR, 7Z, TAR, XZ, ZST + Preview & SHA-256) | WinRAR / 7-Zip / PeaZip (11–120 MB) | **~54 KB ZIP** | [nillyzip-pro](https://github.com/nillynp/nillyzip-pro) | [nillygraphics.com](https://nillygraphics.com/) |
 | **[NillyDoc Pro](https://github.com/nillynp/nillydoc-pro)** | PDF Viewer, Inline Editor & Mobile PWA | Adobe Acrobat Pro (~2.5 GB) / PDFgear (394 MB) | **~659 KB ZIP** | [nillydoc-pro](https://github.com/nillynp/nillydoc-pro) | [nillygraphics.com](https://nillygraphics.com/product/nillydoc-pro-windows/el/) |
 | **[NillyView Pro](https://github.com/nillynp/nillyview-pro)** | 65+ Format Image, Camera RAW, PSD & Affinity Viewer | Windows Photos (881 MB) & Paint (417 MB) | **~62 KB ZIP** | [nillyview-pro](https://github.com/nillynp/nillyview-pro) | [nillygraphics.com](https://nillygraphics.com/product/nillyview-pro/el/) |
 | **[NillyBatch Pro](https://github.com/nillynp/nillybatch-pro)** | Bulk Image Resize, WebP, Watermark & Greeklish SEO Renamer | Adobe Bridge (~1.95 GB) | **~78 KB ZIP** | [nillybatch-pro](https://github.com/nillynp/nillybatch-pro) | [nillygraphics.com](https://nillygraphics.com/product/nillybatch-pro/el/) |
